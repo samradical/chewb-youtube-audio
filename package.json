@@ -3,7 +3,7 @@
   "description": "",
   "homepage": "https://github.com/samradical/chewb-youtube-audio",
   "author": "Sam Elie <samradelie@gmail.com>",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "repository": {
     "type": "git",
     "url": "https://github.com/samradical/chewb-youtube-audio.git",
@@ -21,7 +21,7 @@
     "bluebird": "^3.4.6",
     "buffer-to-arraybuffer": "0.0.4",
     "dash-player-voutils": "*",
-    "dash-player-youtube-socket": "*",
+    "chewb-dash-player-youtube-socket": "*",
     "dat-gui": "^0.5.0",
     "ios-safe-audio-context": "^1.0.1",
     "lodash": "^4.16.4",

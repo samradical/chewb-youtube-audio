@@ -69,10 +69,6 @@ export default class YoutubeAudio {
 					})
 				})
 			})
-			.catch(err=>{
-					console.log(err);
-				return err
-			})
 	}
 
 	_decodeBuffer(indexBuffer, rangeBuffer, options = {}) {
