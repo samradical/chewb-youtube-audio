@@ -1,4 +1,4 @@
-let YoutubeSocket = require('dash-player-youtube-socket').default
+let YoutubeSocket = require('chewb-dash-player-youtube-socket').default
 let Analyzer = require('./analyzer').default
 let Emitter = require('./utils/Emitter')
 let VoUtils = require('dash-player-voutils')
